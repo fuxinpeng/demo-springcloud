@@ -1,0 +1,3 @@
+server: 
+  port: 9001
+# 监控的具体配置是在图形化页面上配置的  http://location:9001/hystrix
